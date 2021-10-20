@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "560285484509",
+    "project_id": "sportapp-22f99",
+    "storage_bucket": "sportapp-22f99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560285484509:android:3d27d691e166747e0d2234",
+        "android_client_info": {
+          "package_name": "com.patrik.sporty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560285484509-39ctr7mf8u4pkeiq48vrctkphqlj54tp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzOarWZFVItBMTySlF2GojGWQHmZVTZ68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560285484509-39ctr7mf8u4pkeiq48vrctkphqlj54tp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
