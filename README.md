@@ -1,4 +1,4 @@
-<p>
+<div>
   Sporty is a sports app that helps users to find or create a sports activities on the desired location. Other users can join, leave and see participants of that activity.
   Every user has it's own profile page which consists of name, email, about section and profile picture. Name, picture and about sections are editable.
   Activities contains all the necessary information to participate in it: sport, time, location, number of needed participants and additional information.
@@ -6,7 +6,7 @@
   Users get nottifications when someone joins or leaves their activity, or if someone's activity is cancelled that they were part of.
   Themes can be changed between 4 different colors.
   LogIn/LogOut
-</p>
+</div>
 
 
 <p align="middle">
@@ -18,7 +18,3 @@
   <img src="https://user-images.githubusercontent.com/83608754/144662244-5d83085b-c1f9-4ec0-ba50-67028a98004f.jpg" width="270" height="540">
   <img src="https://user-images.githubusercontent.com/83608754/144662251-617005ce-32e7-4934-8375-a7aa4e71987f.jpg" width="270" height="540">
 </p>
-
-p{
-  margin-right: 2rem;
-}
