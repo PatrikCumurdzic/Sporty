@@ -5,7 +5,7 @@
   All active activities are shown in home page in which contains integration of Google Maps.
   Users get nottifications when someone joins or leaves their activity, or if someone's activity is cancelled that they were part of.
   Themes can be changed between 4 different colors.
-  LogIn/LogOut
+  LogIn/LogOut function.
 </div>
 
 </br>
