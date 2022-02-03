@@ -8,6 +8,8 @@
   LogIn/LogOut function.
 </div>
 
+</br>
+
 <div>
   Technologies used: Flutter(dart), Android Studio, Firebase (Authentication, Storage, Firestore DB), Google Maps
 </div>
