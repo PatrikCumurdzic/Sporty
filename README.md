@@ -8,6 +8,9 @@
   LogIn/LogOut
 </div>
 
+</br>
+</br>
+</br>
 
 <p align="middle">
   <img src="https://user-images.githubusercontent.com/83608754/144662231-e42c9aa6-e4b0-41dc-9eea-f5c8859128af.jpg" width="270" height="540">
